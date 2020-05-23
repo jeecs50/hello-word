@@ -1,2 +1,3 @@
 # hello-word
-Just another repository
+
+I like js and c++ hahaha wbu? I likke sunny days 
